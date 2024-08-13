@@ -2,7 +2,7 @@
  *
  *	ChartTitle.cpp
  *
- *	Written by CÈdric Moonen (cedric_moonen@hotmail.com)
+ *	Written by CÈñêric Moonen (cedric_moonen@hotmail.com)
  *
  *
  *
